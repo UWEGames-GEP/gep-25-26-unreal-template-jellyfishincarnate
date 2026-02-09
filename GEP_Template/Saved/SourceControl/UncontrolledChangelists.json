@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/Items/Base/BP_ItemPickUp_Base.uasset",
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/Items/Base/BP_UseFunction_Base.uasset",
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/SystemBase/Enums/ItemType.uasset",
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/SystemBase/Structures/InventorySlotStructure.uasset",
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/SystemBase/Structures/ItemSlotStructure.uasset",
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/SystemBase/Structures/ItemReferenceMap.uasset",
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/Blueprints/BP_InventoryInterface.uasset",
+				"D:/gep-25-26-unreal-template-jellyfishincarnate/GEP_Template/Content/Inventory/Blueprints/BP_Inventory.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
